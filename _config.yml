@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "AI & CV Engineer"
   location         : "Ottawa, Ontario"
-  employer         : "University of Waterloo"
+  employer         : #"University of Waterloo"
   uri              : # URL
   email            : "msgastli@gmail.com" 
 
