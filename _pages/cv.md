@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -22,7 +22,7 @@ Work experience
   * Implemented logging and modular AI pipelines using Docker for effective deployment of AI applications.
   * Collaborated with cross-functional teams (software and field engineers) using Git and Jira to seamlessly visualize data into dashboards.
 
-* 2019 — 2021: Deep Learning Graduate Researcher @ University of Waterloo
+* 2019 – 2021: Deep Learning Graduate Researcher @ University of Waterloo
   * Researched and implemented deep learning models (CNN, LSTM, Transformers) for crop yield and price time series forecasting, improving accuracy by 70\% against baselines.
   * Curated and pre-processed time series datasets handling gaps, normalization, and feature engineering.
   * Built and deployed an application for data visualization to enhance stakeholder decision-making at Loblaw Companies Ltd.
@@ -30,11 +30,11 @@ Work experience
   
 Skills
 ======
-* Programming Languages: Python, SQL, C++, R, MATLAB
-* AI Frameworks: TensorFlow, PyTorch, Keras, Scikit-learn, CUDA, ONNX
-* Data Processing: NumPy, OpenCV, Pandas, GDAL
-* Web App Frameworks: Flask, Django
-* Developer Tools: Git, Docker, VS Code, MQTT, RabbitMQ, RGui
+* **Programming Languages:** Python, SQL, C++, R, MATLAB
+* **AI Frameworks:** TensorFlow, PyTorch, Keras, Scikit-learn, CUDA, ONNX
+* **Data Processing:** NumPy, OpenCV, Pandas, GDAL
+* **Web App Frameworks:** Flask, Django
+* **Developer Tools:** Git, Docker, VS Code, MQTT, RabbitMQ, RGui
 
 Publications
 ======
